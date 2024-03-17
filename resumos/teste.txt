@@ -3,3 +3,5 @@ Teste de upload para repositório remoto
 Primeira alteração no arquivo
 
 Segunda alteração do arquivo
+
+Terceira alteração do arquivo feita no repositório remoto
