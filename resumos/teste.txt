@@ -5,3 +5,5 @@ Primeira alteração no arquivo
 Segunda alteração do arquivo
 
 Terceira alteração do arquivo feita no repositório remoto
+
+alteração feita com a branch teste
